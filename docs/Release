@@ -1,0 +1,12 @@
+Origin: Deniied's repo
+Label: Deniied's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: juan
+
+SHA256:
+ 44bd50ae6e47e8004da1d4d2c1711c0260c40877027927cef44b856c50111c2a 595 Packages.bz2
+ 6593beb40273f33ffbf00549aac58ab3b97c7cc789ab7907ef0e69c216f3af71 576 Packages.xz
